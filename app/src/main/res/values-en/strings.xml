@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fuel</string>
+    <string name="hint_alcool">"Enter the value of Alcool "</string>
+    <string name="hint_gasolina">Enter the value of Gasoline</string>
+    <string name="text_resultado">Search</string>
+</resources>

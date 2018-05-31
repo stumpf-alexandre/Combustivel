@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" Brennbar"</string>
+    <string name="hint_alcool">Geben Sie den Wert von Alcool ein</string>
+    <string name="hint_gasolina">" Geben Sie den Wert von Benzin ein"</string>
+    <string name="text_resultado">" Suche"</string>
+</resources>

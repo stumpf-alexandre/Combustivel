@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">وقود</string>
+    <string name="hint_alcool">أدخل قيمة Alcool</string>
+    <string name="hint_gasolina">أدخل قيمة البنزين</string>
+    <string name="text_resultado">بحث</string>
+</resources>

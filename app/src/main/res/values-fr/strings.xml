@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Combustible</string>
+    <string name="text_resultado">" Chercher"</string>
+    <string name="hint_gasolina">Entrez la valeur de l\'essence</string>
+    <string name="hint_alcool">" Entrez la valeur de Alcool"</string>
+</resources>

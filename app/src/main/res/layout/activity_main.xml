@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.als.combustivel.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editTextAlcool"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"
+            android:hint="@string/hint_alcool"
+            android:gravity="center"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:background="@color/colorPrimary"/>
+
+        <EditText
+            android:id="@+id/editTextGasolina"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"
+            android:hint="@string/hint_gasolina"
+            android:gravity="center"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:background="@color/colorPrimary"/>
+
+        <Button
+            android:id="@+id/buttonCalculo"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"
+            android:text="@string/text_resultado" />
+
+        <TextView
+            android:id="@+id/textViewResultado"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"
+            android:gravity="center"/>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:srcCompat="@drawable/posto" />
+    </LinearLayout>
+</RelativeLayout>

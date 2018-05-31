@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Combustivel</string>
+    <string name="hint_alcool" translatable="false">Digite o valor do Alcool</string>
+    <string name="hint_gasolina" translatable="false">Digite o valor da Gasolina</string>
+    <string name="text_resultado" translatable="false">Pesquisar</string>
+</resources>
